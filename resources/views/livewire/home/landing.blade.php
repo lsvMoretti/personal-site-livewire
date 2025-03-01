@@ -19,14 +19,18 @@
             <a class="hover:text-slate-300 hover:cursor-pointer text-lg md:text-2xl text-center fade-in opacity-0 transition-opacity ease-in delay-[3000ms] duration-500">Contact</a>
         </div>
         <div class="flex flex-row items-center gap-12 pointer-events-auto">
-            <a class="hover:text-slate-300 hover:cursor-pointer fade-in opacity-0 transition-opacity ease-in delay-[3500ms] duration-500"><i
-                    class="fa-brands fa-github text-3xl md:text-5xl"></i></a>
-            <a class="hover:text-slate-300 hover:cursor-pointer fade-in opacity-0 transition-opacity ease-in delay-[3500ms] duration-500"><i
-                    class="fa-brands fa-medium text-3xl md:text-5xl"></i></a>
-            <a class="hover:text-slate-300 hover:cursor-pointer fade-in opacity-0 transition-opacity ease-in delay-[3500ms] duration-500"><i
-                    class="fa-brands fa-x-twitter text-3xl md:text-5xl"></i></a>
-            <a class="hover:text-slate-300 hover:cursor-pointer fade-in opacity-0 transition-opacity ease-in delay-[3500ms] duration-500"><i
-                    class="fa-brands fa-upwork text-3xl md:text-5xl"></i></a>
+            <a class="hover:text-slate-300 hover:cursor-pointer fade-in opacity-0 transition-opacity ease-in delay-[3500ms] duration-500"
+               href="https://github.com/lsvMoretti">
+                <i class="fa-brands fa-github text-3xl md:text-5xl"></i></a>
+            <a class="hover:text-slate-300 hover:cursor-pointer fade-in opacity-0 transition-opacity ease-in delay-[3500ms] duration-500"
+               href="https://medium.com/@andrew_cade">
+                <i class="fa-brands fa-medium text-3xl md:text-5xl"></i></a>
+            <a class="hover:text-slate-300 hover:cursor-pointer fade-in opacity-0 transition-opacity ease-in delay-[3500ms] duration-500"
+               href="https://x.com/unsociable_dev">
+                <i class="fa-brands fa-x-twitter text-3xl md:text-5xl"></i></a>
+            <a class="hover:text-slate-300 hover:cursor-pointer fade-in opacity-0 transition-opacity ease-in delay-[3500ms] duration-500"
+               href="https://www.upwork.com/freelancers/~017448aa08bd5fd772">
+                <i class="fa-brands fa-upwork text-3xl md:text-5xl"></i></a>
         </div>
     </div>
     <div class="w-full flex flex-col gap-12 justify-center items-center">
